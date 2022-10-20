@@ -22,9 +22,5 @@ function division (op1, op2){
     return resultado; 
 }
 
-function cuadrado (numero){
+module.exports = {suma, resta, multiplicacion, division}
 
-    return numero * numero;
-}
-
-module.exports = {suma, resta, multiplicacion, division, cuadrado}
