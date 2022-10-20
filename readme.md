@@ -2,6 +2,8 @@
 
 Así es como se sube un archivo a github
 
+Se hace un add de los ficheros, se hace un commit poniendole un nombre, se conecta con el repositorio remoto y se hace un push a ese repositorio
+
 Ahora con el .gitignore se ha marcado que se ignoraran las carpertas reto2 y reto 3
 
 Hay conflictos al hacer el pull request por lo que se tienen que solucionar manualmente ya que automaticamente no se solucionan
