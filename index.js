@@ -1,3 +1,4 @@
+
 function suma (op1, op2, op3){
     
     let resultado = op1 + op2 + op3;
@@ -23,3 +24,4 @@ function division (op1, op2){
 }
 
 module.exports = {suma, resta, multiplicacion, division}
+
