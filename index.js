@@ -1,6 +1,7 @@
-function suma (op1, op2){
+
+function suma (op1, op2, op3){
     
-    let resultado = op1 + op2;
+    let resultado = op1 + op2 + op3;
     return resultado; 
 }
 
